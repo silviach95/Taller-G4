@@ -9,3 +9,8 @@ def calcula_sen(value):
     return math.sin(value)
 
 print ("Seno_x{}".format(calcula_sen(20)))
+
+def calcula_tan(value):
+    return math.tan(value)
+
+print ("Tan_x{}".format(calcula_tan(20)))
