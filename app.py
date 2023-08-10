@@ -14,3 +14,8 @@ def calcula_tan(value):
     return math.tan(value)
 
 print ("Tan_x{}".format(calcula_tan(20)))
+
+def calcula_cosenh(value):
+    return math.cosh(value)
+
+print ("Cosenh_x{}".format(calcula_cosenh(20)))
